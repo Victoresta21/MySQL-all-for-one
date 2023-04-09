@@ -1,5 +1,5 @@
-_______________________________________________________________________________________________________________
-Este README ainda esta esta em desenvolvimento, a maiorias das coisas nele precisam ser mudadas.
+_______________________________________________________________________________________________________________ 
+# Este README ainda esta esta em desenvolvimento, a maiorias das coisas nele precisam ser mudadas.
 
 
 
